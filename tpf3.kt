@@ -1,3 +1,9 @@
+// Curso Android Telefonica
+// Autor: Angel Cellillo
+// Mayo 2022
+// Neuquén - Argentina
+
+
 fun main() {
     //     ejer1()
     //     ejer2()
